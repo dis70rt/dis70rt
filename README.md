@@ -9,8 +9,8 @@ Apart from Computer Science and technology 👨‍💻, I also love Mathematics�
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
 • 👦 **Pronoun:** *He/Him.*<br>
-• 💪🏼 **Future Goals:** *Learn more technologies - Never stop creating new ideas.*<br>
-• 🙂 **Typing Speed:** *45 wpm (need to increase it to 80)*<br>
+• 💪🏼 **Future Goals:** *Never stop creating new ideas.*<br>
+• 🙂 **Typing Speed:** *45 wpm (increasing it to 80)*<br>
 • 🌍 **Website:** [saikat.in](https://saikat.in)<br>
 • 🌱 *I’m currently learning Kotlin.*<br>
 • 💡 *Interested in Creative Coding*<br>
