@@ -22,7 +22,7 @@ Apart from Computer Science and technology 👨‍💻, I also love Mathematics�
 <a href="https://linkedin.com/u/saikat0326"><img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="linkedin" width="40"/></a>&nbsp;
 <a href="https://twitter.com/saikatdas_"><img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="twitter" width="37"/></a>&nbsp;&nbsp;
 <a href="https://reddit.com/u/saikat_"><img src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" alt="reddit" width="40"/></a>&nbsp;&nbsp;
-<a href="https://telegram.me/saikat0326"><img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="telegram" width="40"/></a>;&nbsp;
+<a href="https://telegram.me/saikat0326"><img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="telegram" width="40"/></a>&nbsp;
 
 <br>
 <br>
