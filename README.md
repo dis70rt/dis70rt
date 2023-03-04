@@ -2,13 +2,12 @@
 
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Saikat)
-*I'm a 16 year old high school student from India 🇮🇳, passionate about developing and learning new things.<br>
+*I'm a 18 year old high school student from India 🇮🇳, passionate about developing and learning new things.<br>
 Apart from Computer Science and technology 👨‍💻, I also love Mathematics📏*
 
 
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
-• 👦 **Pronoun:** *He/Him.*<br>
 • 💪🏼 **Future Goals:** *Never stop creating new ideas.*<br>
 • 🙂 **Typing Speed:** *45 wpm (increasing it to 80)*<br>
 • 🌍 **Website:** [saikat.in](https://saikat.in)<br>
