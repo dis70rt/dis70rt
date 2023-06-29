@@ -2,7 +2,7 @@
 
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Saikat)
-*I'm a 18 year old high school student from India 🇮🇳, passionate about developing and learning new things.<br>
+*I'm a 19 year old high school student from India 🇮🇳, passionate about developing and learning new things.<br>
 Apart from Computer Science and technology 👨‍💻, I also love Mathematics📏*
 
 
@@ -11,9 +11,8 @@ Apart from Computer Science and technology 👨‍💻, I also love Mathematics�
 • 💪🏼 **Future Goals:** *Never stop creating new ideas.*<br>
 • 🙂 **Typing Speed:** *45 wpm (increasing it to 80)*<br>
 • 🌍 **Website:** [saikat.in](https://saikat.in)<br>
-• 🌱 *I’m currently learning Kotlin.*<br>
-• 💡 *Interested in Creative Coding*<br>
-
+• 🌱 *I’m currently learning C++.*<br>
+• 💡 *Interested in Competitive Coding*<br>
 <br>
 
 ## **Connect With Me**<img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/><br>
