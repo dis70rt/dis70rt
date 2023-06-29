@@ -2,7 +2,7 @@
 
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Saikat)
-*I'm a 19 year old high school student from India 🇮🇳, passionate about developing and learning new things.<br>
+*I'm a 19 year old college student from India 🇮🇳, passionate about developing and learning new things.<br>
 Apart from Computer Science and technology 👨‍💻, I also love Mathematics📏*
 
 
