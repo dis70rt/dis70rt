@@ -11,7 +11,7 @@ Apart from Computer Science and technology 👨‍💻, I also love Mathematics�
 • 💪🏼 **Future Goals:** *Never stop creating new ideas.*<br>
 • 🙂 **Typing Speed:** *45 wpm (increasing it to 80)*<br>
 • 🌍 **Website:** [saikat.in](https://saikat.in)<br>
-• 🌱 *I’m currently learning C++.*<br>
+• 🌱 *I’m currently learning C/C++.*<br>
 • 💡 *Interested in Competitive Coding*<br>
 <br>
 
