@@ -27,11 +27,9 @@
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="40"/> **Languages and Tools**
 <a href="https://www.python.org/"><img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40"/></a>&nbsp;&nbsp;
 <a href="https://kotlinlang.org/"><img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" alt="kotlin" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.javascript.com/"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40"/></a>&nbsp;&nbsp;
 <a href="https://flutter.dev"><img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="40"/></a>&nbsp;&nbsp;
 <a href="https://html.com/"><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com/en/"><img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40"/></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40"/></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.android.com"><img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" alt="androidstudio" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="photoshop" width="40"/></a>&nbsp;&nbsp;
