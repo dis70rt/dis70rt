@@ -38,5 +38,5 @@
 <br>
 
 ## ***⚙️ GitHub Analytics***
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikat0326&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikat0326&layout=compact&theme=radical)
+![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikat-iit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikat-iit&layout=compact&theme=radical)
