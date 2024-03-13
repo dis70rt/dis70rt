@@ -2,7 +2,7 @@
 
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Saikat)
-*I am a 19-year-old college student currently studying at IIT BHU Varanasi in India. My passion lies in both the realms of Computer Science and technology 👨‍💻, as well as the captivating world of Mathematics📏.*
+*I am a 20-year-old college student currently studying at IIT BHU Varanasi in India. My passion lies in both the realms of Computer Science and technology 👨‍💻, as well as the captivating world of Mathematics📏.*
 
 
 
