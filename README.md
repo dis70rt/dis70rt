@@ -9,7 +9,7 @@
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
 • 💪🏼 **Future Goals:** *Never stop creating new ideas.*<br>
 • 🌍 **Website:** [saikat.in](https://saikat.in)<br>
-• 🌱 *I’m currently learning Flutter/GoLang.*<br>
+• 🌱 *I’m currently learning Flutter/Rust.*<br>
 • 💡 *Interested in Creative Coding*<br>
 <br>
 
