@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 46" width="300" height="46">
+  <defs>
+    <filter id="fg"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Gmail Logo style envelope -->
+  <g transform="translate(9, 13)">
+    <rect x="0" y="0" width="22" height="16" rx="2" fill="#ffffff" stroke="#EA4335" stroke-width="2"/>
+    <path d="M 0 2 L 11 10 L 22 2" fill="none" stroke="#EA4335" stroke-width="2"/>
+  </g>
+  <!-- Label -->
+  <text x="40" y="28" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#EA4335">thrinadh2164.work@gmail.com</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="100%" height="100%">
+  <defs>
+    <radialGradient id="coreGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="25%"  stop-color="#FFD700"/>
+      <stop offset="60%"  stop-color="#FF6B35"/>
+      <stop offset="100%" stop-color="#FF2D2D" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+    <filter id="textglow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 800 38px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; letter-spacing: 3px; }
+      .subtitle { font: 600 16px 'Fira Code', monospace; fill: #FF9F45; letter-spacing: 1px; }
+      .cta { font: 700 15px 'Segoe UI', Arial; fill: #FFD700; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <!-- Base dim border -->
+  <rect width="496" height="646" x="2" y="2" rx="20" fill="transparent" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Comet / Shooting Star Trail (Perimeter ~2250) -->
+  <rect width="496" height="646" x="2" y="2" rx="20" fill="transparent" stroke="#FF6B35" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="150 2100" filter="url(#glow)">
+    <animate attributeName="stroke" values="#FF6B35;#FFD700;#FF2D2D;#FF6B35" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" from="2250" to="0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Fire Hexagon Animation for Awards -->
+  <g transform="translate(250,260)">
+    <circle r="100" fill="url(#coreGrad)" filter="url(#glow)">
+      <animate attributeName="r" values="90;120;90" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Rotating hexagons - fire -->
+    <g stroke="#FF6B35" stroke-width="2" fill="none">
+      <polygon points="0,-60 52,-30 52,30 0,60 -52,30 -52,-30">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="8s" repeatCount="indefinite"/>
+      </polygon>
+      <polygon points="0,-85 74,-42 74,42 0,85 -74,42 -74,-42" stroke="#FFD700" stroke-dasharray="20 10">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
+      </polygon>
+    </g>
+
+    <!-- Inner fire diamond -->
+    <rect x="-22" y="-22" width="44" height="44" fill="#FFD700" opacity="0.95">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-10" y="-10" width="20" height="20" fill="#ffffff">
+      <animateTransform attributeName="transform" type="rotate" from="45" to="405" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Orbiting fire orb -->
+    <circle cx="0" cy="-115" r="6" fill="#FF2D2D" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="115" r="5" fill="#FFD700" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="180" to="540" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="250" y="460" text-anchor="middle" class="title" filter="url(#textglow)">AWARDS</text>
+  <text x="250" y="500" text-anchor="middle" class="subtitle">honors • hackathons • impact</text>
+  <text x="250" y="560" text-anchor="middle" class="cta">VIEW GALLERY →</text>
+</svg>

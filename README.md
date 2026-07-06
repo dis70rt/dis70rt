@@ -1,73 +1,149 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Saikat)
+<div align="center">
+  <img src="./svg/header.svg" width="100%" alt="SAIKAT.IN — System Portal" />
+</div>
 
-*I am a 21-year-old college student currently studying at IIT BHU Varanasi in India. My passion lies in both the realms of Computer Science and technology 👨‍💻, as well as the captivating world of Mathematics 📏.*
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=620&height=60&lines=%5B%E2%96%B6%5D+System+Boot+Sequence+Initiated...;%5B%E2%96%B6%5D+Loading+Computer+Science+Modules...;%5B%E2%96%B6%5D+Compiling+Flutter+%26+Rust+Code...;%5B%E2%96%B6%5D+Exploring+Creative+Coding...;%5B%E2%96%B6%5D+Link+Established.+Welcome." alt="Typing SVG" /></a>
+</div>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/wpIqberrjjSKDmaCgA/giphy.gif" width="180" />
+</div>
 
-## 🚀 About Me
+<br/>
 
-- 💪🏼 **Future Goals:** *Never stop creating new ideas*
-- 🌍 **Website:** [saikat.in](https://saikat.in)
-- 🌱 **Currently Learning:** Flutter & Rust
-- 💡 **Interests:** Creative Coding & Mathematics
-- 🎓 **Education:** IIT BHU Varanasi
+<div align="center">
+  <a href="https://linkedin.com/u/in-saikat"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>&nbsp;
+  <a href="https://saikat.in"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>
+</div>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<div align="center">
+  <img src="./svg/divider_fire.svg" width="100%">
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saikat._)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/u/in-saikat)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/saikatdas_)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/u/saikat_)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/saikat0326)
+## 「 About Me 」
 
----
+```javascript
+const saikat = {
+    alias:    "dis70rt",
+    role:     "Computer Science Student at IIT BHU",
+    focus:    ["Computer Science", "Technology", "Mathematics"],
+    learning: ["Flutter", "Rust"],
+    interests:["Creative Coding", "Mathematics"],
+    goal:     "Never stop creating new ideas 🚀"
+};
+```
 
-## 🛠️ Languages and Tools
+- 👨‍💻 Passionate about **Computer Science and Technology**
+- 📏 Captivated by the beautiful world of **Mathematics**
+- 🌱 Currently learning **Flutter & Rust**
+- 💡 Interested in **Creative Coding & Mathematics**
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br clear="both"/>
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="./svg/divider_circuit.svg" width="100%">
+</div>
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## 「 Technologies 」
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<table border="0" cellspacing="12" cellpadding="0" align="center">
+<tr>
 
-### Cloud & DevOps
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<td width="420" valign="top" align="center">
 
+<h3>⚡ Languages</h3>
+<br>
 
----
+<table align="center" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38"/><br/><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="38"/><br/><sub><b>Dart</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="38"/><br/><sub><b>Rust</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="38"/><br/><sub><b>C++</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="38"/><br/><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38"/><br/><sub><b>CSS3</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38"/><br/><sub><b>SQL</b></sub></td>
+  </tr>
+</table>
 
-## 📈 GitHub Analytics
+</td>
 
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dis70rt&show_icons=true&theme=radical&hide_border=true)
+<td width="420" valign="top" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dis70rt&layout=compact&theme=radical&hide_border=true)
+<h3>🔥 Frameworks &amp; Tools</h3>
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dis70rt&theme=radical&hide_border=true)
+<table align="center" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38"/><br/><sub><b>Flutter</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38"/><br/><sub><b>React</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38"/><br/><sub><b>Android</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="38"/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38"/><br/><sub><b>Firebase</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38"/><br/><sub><b>Git</b></sub></td>
+  </tr>
+</table>
 
----
+</td>
 
-### ⭐ From [dis70rt](https://github.com/dis70rt)
+</tr>
+</table>
 
-*Thanks for visiting! Feel free to reach out if you'd like to collaborate on something interesting!*
+<div align="center">
+  <img src="./svg/divider_fire.svg" width="100%">
+</div>
+
+## 「 Portfolio Showcase 」
+
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
+<tr>
+  <td width="33.3%" valign="top" align="center"><a href="https://github.com/dis70rt?tab=repositories"><img src="./svg/panel_projects.svg" width="100%" alt="Projects"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://saikat.in"><img src="./svg/panel_awards.svg" width="100%" alt="Awards"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://saikat.in"><img src="./svg/panel_certs.svg" width="100%" alt="Certifications"/></a></td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="./svg/divider_circuit.svg" width="100%">
+</div>
+
+## 「 GitHub Stats 」
+
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dis70rt&theme=radical&hide_border=true&background=00000000&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF9F45&dates=FF9F45" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dis70rt&layout=compact&theme=radical&hide_border=true" width="90%" />
+</div>
+
+<div align="center">
+  <img src="./svg/divider_fire.svg" width="100%">
+</div>
+
+<div align="center">
+  <a href="./docs/COLLAB.md"><img src="./svg/collab_terminal.svg" width="100%" alt="Collaboration Terminal"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://saikat.in"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/u/in-saikat"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>
+</div>
+
+<div align="center">
+  <img src="./svg/footer.svg" width="100%" />
+</div>

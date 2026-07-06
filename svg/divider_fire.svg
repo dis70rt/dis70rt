@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 45" width="100%" height="45">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#FF2D2D" stop-opacity="0"/>
+      <stop offset="15%"  stop-color="#FF2D2D"/>
+      <stop offset="40%"  stop-color="#FFD700"/>
+      <stop offset="65%"  stop-color="#FF6B35"/>
+      <stop offset="85%"  stop-color="#FF2D2D"/>
+      <stop offset="100%" stop-color="#FF2D2D" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base fire line -->
+  <line x1="0" y1="22" x2="900" y2="22" stroke="url(#fg)" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Tick marks -->
+  <line x1="150" y1="17" x2="150" y2="27" stroke="#FFD700" stroke-width="1.2" opacity="0.7"/>
+  <line x1="300" y1="17" x2="300" y2="27" stroke="#FF6B35" stroke-width="1.2" opacity="0.7"/>
+  <line x1="450" y1="14" x2="450" y2="30" stroke="#FF2D2D" stroke-width="2"   opacity="1"   filter="url(#glow)"/>
+  <line x1="600" y1="17" x2="600" y2="27" stroke="#FF6B35" stroke-width="1.2" opacity="0.7"/>
+  <line x1="750" y1="17" x2="750" y2="27" stroke="#FFD700" stroke-width="1.2" opacity="0.7"/>
+
+  <!-- Center fire icon -->
+  <text x="450" y="16" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700" filter="url(#glow)">🔥</text>
+
+  <!-- Spark 1 - animates cx 0->900 -->
+  <circle cx="0" cy="22" r="4" fill="#FF6B35" filter="url(#glow)">
+    <animate attributeName="cx" from="0" to="900" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;5.5;3;4" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.8;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Spark 2 - offset start -->
+  <circle cx="0" cy="22" r="3" fill="#FFD700" filter="url(#glow)">
+    <animate attributeName="cx" from="0" to="900" dur="2.8s" begin="0.93s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2.8s" begin="0.93s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Spark 3 - offset start -->
+  <circle cx="0" cy="22" r="2.5" fill="#FF2D2D" filter="url(#glow)">
+    <animate attributeName="cx" from="0" to="900" dur="2.8s" begin="1.87s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Fire sparks popping above line -->
+  <circle cx="225" cy="22" r="2" fill="#FFD700">
+    <animate attributeName="cy" values="22;12;22" dur="1.6s" begin="0.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="22" r="2" fill="#FF2D2D">
+    <animate attributeName="cy" values="22;10;22" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="675" cy="22" r="2" fill="#FFD700">
+    <animate attributeName="cy" values="22;12;22" dur="1.8s" begin="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

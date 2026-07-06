@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="100%" height="100%">
+  <defs>
+    <radialGradient id="coreGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="25%"  stop-color="#FFD700"/>
+      <stop offset="60%"  stop-color="#FF6B35"/>
+      <stop offset="100%" stop-color="#FF2D2D" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+    <filter id="textglow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 800 38px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; letter-spacing: 3px; }
+      .subtitle { font: 600 16px 'Fira Code', monospace; fill: #FF9F45; letter-spacing: 1px; }
+      .cta { font: 700 15px 'Segoe UI', Arial; fill: #FFD700; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <!-- Base dim border -->
+  <rect width="496" height="646" x="2" y="2" rx="20" fill="transparent" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Comet / Shooting Star Trail (Perimeter ~2250) -->
+  <rect width="496" height="646" x="2" y="2" rx="20" fill="transparent" stroke="#FF6B35" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="150 2100" filter="url(#glow)">
+    <animate attributeName="stroke" values="#FF6B35;#FFD700;#FF2D2D;#FF6B35" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" from="2250" to="0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Fire Orbital Animation -->
+  <g transform="translate(250,260)">
+    <!-- Core fire glow -->
+    <circle r="100" fill="url(#coreGrad)" filter="url(#glow)">
+      <animate attributeName="r" values="90;115;90" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="38" fill="#FFD700" opacity="0.95">
+      <animate attributeName="r" values="34;42;34" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="18" fill="#ffffff"/>
+
+    <!-- Rotating Rings - fire colored -->
+    <g stroke="#FF6B35" stroke-width="2" fill="none">
+      <ellipse rx="130" ry="40">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="130" ry="40">
+        <animateTransform attributeName="transform" type="rotate" from="60" to="420" dur="12s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="130" ry="40">
+        <animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="14s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- Orbiting fire nodes -->
+    <circle cx="130" cy="0" r="5" fill="#FFD700" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-90" cy="90" r="7" fill="#FF6B35" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="-80" r="4" fill="#FF2D2D" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Title Text -->
+  <text x="250" y="460" text-anchor="middle" class="title" filter="url(#textglow)">PROJECTS</text>
+  <text x="250" y="500" text-anchor="middle" class="subtitle">flutter • rust • maths</text>
+  <text x="250" y="560" text-anchor="middle" class="cta">VIEW REPOS →</text>
+</svg>
