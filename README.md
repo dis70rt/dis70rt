@@ -38,7 +38,7 @@
 
 **Software Engineer** specializing in high-performance backend systems, distributed applications, and AI-powered developer tools.
 
-- 👨‍💻 Building systems with **Go**, **Python**, **Rust**, and **C++**.
+- 👨‍💻 Building systems with **Go**, **Python**, and **C++**.
 - 📱 Crafting cross-platform apps with **Flutter**.
 - ⚡ **Fun Fact:** I hate slow stuff. Obsessed with latency.
 - 🎯 **Hobbies:** Chess, Sketching, Cafe hopping, and Reading engineering blogs.

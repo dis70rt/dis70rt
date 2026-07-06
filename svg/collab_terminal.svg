@@ -45,10 +45,10 @@
       <text x="0" y="38" class="term-sub">Scanning for compatible vectors and shared systems...</text>
 
       <g transform="translate(20, 82)">
-        <text x="0"   y="0"  class="term-item" fill="#8BE9FD">[+] High-Performance Backend</text>
-        <text x="0"   y="38" class="term-item" fill="#FF79C6">[+] Go, Rust &amp; C++ Systems</text>
-        <text x="390" y="0"  class="term-item" fill="#8BE9FD">[+] AI &amp; ML OCR Pipelines</text>
-        <text x="390" y="38" class="term-item" fill="#FF79C6">[+] Distributed Architecture</text>
+        <text x="0"   y="0"  class="term-item" fill="#8BE9FD">[+] Flutter &amp; Mobile Apps</text>
+        <text x="0"   y="38" class="term-item" fill="#FF79C6">[+] Golang &amp; Backend Systems</text>
+        <text x="390" y="0"  class="term-item" fill="#8BE9FD">[+] Python &amp; AI/ML OCR</text>
+        <text x="390" y="38" class="term-item" fill="#FF79C6">[+] Mathematics &amp; Algorithms</text>
       </g>
 
       <text x="0" y="185" class="term-sub">&gt; STATUS: <tspan fill="#8BE9FD" filter="url(#glow)">AWAITING_CONNECTION_</tspan></text>
