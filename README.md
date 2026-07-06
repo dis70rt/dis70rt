@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/mario.gif" width="160" />
+  <img src="./assets/pacman.gif" width="160" />
 </div>
 
 <br/>
@@ -149,10 +149,10 @@
 I actively write about backend architecture, performance tuning, and technical deep-dives on [blog.saikat.in](https://blog.saikat.in):
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [How to Build an Ultra-Fast Order Matching Engine in Go](https://blog.saikat.in)
-- ⚙️ [Understanding Kafka Event-Driven Architecture](https://blog.saikat.in)
-- 🧠 [Implementing Document AI and OCR Pipelines](https://blog.saikat.in)
-- 📱 [Flutter & gRPC: Real-time Data Streaming](https://blog.saikat.in)
+- [+] [I Had No Idea What an Order Book Was. Now I've Built One That Handles 18k RPS.](https://blog.saikat.in/i-had-no-idea-what-an-order-book-was-now-i-ve-built-one-that-handles-18k-rps)
+- [+] [Beyond the Green Dot: Engineering Online Presence using GoLang](https://blog.saikat.in/beyond-the-green-dot-engineering-online-presence-using-golang)
+- [+] [How I Got gRPC Working Through Cloudflare Tunnel (The Hard Way)](https://blog.saikat.in/how-i-got-grpc-working-through-cloudflare-tunnel-the-hard-way)
+- [+] [Firebase Draining Your Wallet? Here's How to Stop Paying for Every Single Read.](https://blog.saikat.in/firebase-draining-your-wallet-here-s-how-to-stop-paying-for-every-single-read)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
