@@ -10,6 +10,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&random=false&width=620&height=60&lines=%5B%E2%96%B6%5D+Building+things+that+matter;%5B%E2%96%B6%5D+Exploring+the+math+behind+everything;%5B%E2%96%B6%5D+Exploring+distributed+systems+and+AI." alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <img src="./assets/mario.gif" width="160" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -28,22 +32,16 @@
 
 ## 「 About Me 」
 
-<img src="./assets/mario.gif" width="180" align="left" hspace="20" vspace="10">
+<img src="./assets/saikat.png" width="180" align="left" hspace="20" vspace="10" style="border-radius: 15px;">
 
-```javascript
-const saikat = {
-    role:     "Software Engineer",
-    building: "High-performance backend systems, distributed applications, and AI-powered developer tools.",
-    stack:    ["Go", "Python", "Flutter", "Rust", "C++"],
-    hobby:    ["Backend engineering", "Chess", "Sketching", "Building random side projects"],
-    funFact:  "Obsessed with latency. (I hate slow stuff.)"
-};
-```
+<br/>
 
-- 👨‍💻 **Software Engineer** building high-performance systems and developer tools.
-- 🎓 Final Year B.Tech • Class of 2027
+**Software Engineer** specializing in high-performance backend systems, distributed applications, and AI-powered developer tools.
+
+- 👨‍💻 Building systems with **Go**, **Python**, **Rust**, and **C++**.
+- 📱 Crafting cross-platform apps with **Flutter**.
 - ⚡ **Fun Fact:** I hate slow stuff. Obsessed with latency.
-- 🎯 **Hobbies:** Backend engineering, Chess, Badminton, Sketching, Cafe hopping, Reading engineering blogs.
+- 🎯 **Hobbies:** Chess, Sketching, Cafe hopping, and Reading engineering blogs.
 
 <br clear="both"/>
 
@@ -85,12 +83,12 @@ const saikat = {
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38"/><br/><sub><b>PostgreSQL</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="38"/><br/><sub><b>Redis</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kafka/kafka-original.svg" width="38"/><br/><sub><b>Kafka</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="38"/><br/><sub><b>Kafka</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="38"/><br/><sub><b>FastAPI</b></sub></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/api.png" width="38"/><br/><sub><b>gRPC</b></sub></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/microservices.png" width="38"/><br/><sub><b>Microservices</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/tree-structure.png" width="38"/><br/><sub><b>Microservices</b></sub></td>
   </tr>
 </table>
 
@@ -148,12 +146,14 @@ const saikat = {
 
 ## 「 Writing & Engineering Blogs 」
 
-I actively write about backend architecture, performance tuning, and technical deep-dives:
-- 📝 **Architecture Write-ups**
-- 🚀 **Performance Tuning Blogs**
-- 🐹 **Go Backend Articles**
-- 📱 **Flutter Learnings**
-- 🔗 Check out my engineering articles at [blog.saikat.in](https://blog.saikat.in)!
+I actively write about backend architecture, performance tuning, and technical deep-dives on [blog.saikat.in](https://blog.saikat.in):
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [How to Build an Ultra-Fast Order Matching Engine in Go](https://blog.saikat.in)
+- ⚙️ [Understanding Kafka Event-Driven Architecture](https://blog.saikat.in)
+- 🧠 [Implementing Document AI and OCR Pipelines](https://blog.saikat.in)
+- 📱 [Flutter & gRPC: Real-time Data Streaming](https://blog.saikat.in)
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <img src="./svg/divider_fire.svg" width="100%">
