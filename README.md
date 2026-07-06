@@ -162,7 +162,9 @@ I actively write about backend architecture, performance tuning, and technical d
 ## 「 GitHub Stats 」
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dis70rt&theme=tokyonight&hide_border=true&background=0E0015&ring=FF79C6&fire=bc8cff&currStreakLabel=FF79C6&sideLabels=bc8cff&dates=bc8cff" />
+  <a href="https://git.io/streak-stats">
+    <img height="180" src="https://streak-stats.demolab.com?user=dis70rt&theme=tokyonight&hide_border=true&background=0E0015&ring=FF79C6&fire=bc8cff&currStreakLabel=FF79C6&sideLabels=bc8cff&dates=bc8cff" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
