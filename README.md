@@ -32,16 +32,20 @@
 
 ## 「 About Me 」
 
-<img src="./assets/saikat.png" width="180" align="left" hspace="20" vspace="10" style="border-radius: 15px;">
+<img src="./assets/saikat.png" width="220" align="left" hspace="20" vspace="10" style="border-radius: 15px;">
 
-<br/>
-
-**Software Engineer** specializing in high-performance backend systems, distributed applications, and AI-powered developer tools.
-
-- 👨‍💻 Building systems with **Go**, **Python**, and **C++**.
-- 📱 Crafting cross-platform apps with **Flutter**.
-- ⚡ **Fun Fact:** I hate slow stuff. Obsessed with latency.
-- 🎯 **Hobbies:** Chess, Sketching, Cafe hopping, and Reading engineering blogs.
+```text
+saikat@das -----------------------------------------------------------------
+. OS: . . . . . . . . . . . . . . . . . . . .  Windows 11, Android 15, Linux
+. Uptime: . . . . . . . . . . . . . . . . . . .  22 years, 5 months, 27 days
+. Host: . . . . . . . . . . . . . . . . . . . . . . . .  IIT (BHU), Varanasi
+.
+. Languages.Programming:  . . . . . . . . . . . . . .  Go, Python, C++, Dart
+. Languages.Real: . . . . . . . . . . . . . . . . .  English, Hindi, Bengali
+.
+. Hobbies.Software: . . . . . . . . . . . . . . Chess, Gaming, Movies, Anime
+. Hobbies.Hardware: . . . . . . . . . Badminton, Walking, Sketching, Reading
+```
 
 <br clear="both"/>
 
