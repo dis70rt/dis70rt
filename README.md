@@ -37,7 +37,7 @@
 ```text
 saikat@das -----------------------------------------------------------------
 . OS: . . . . . . . . . . . . . . . . . . . .  Windows 11, Android 15, Linux
-. Uptime: . . . . . . . . . . . . . . . . . . .  22 years, 6 months, 16 days
+. Uptime: . . . . . . . . . . . . . . . . . . .  22 years, 6 months, 17 days
 . Host: . . . . . . . . . . . . . . . . . . . . . . . .  IIT (BHU), Varanasi
 .
 . Languages.Programming:  . . . . . . . . . . . . . .  Go, Python, C++, Dart
